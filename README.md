@@ -5,9 +5,7 @@
 </p> 
 <br>
 <br>
-<p align="center">
-<a href="https://wakatime.com/@2bd5d4a8-0ada-426e-b2f9-68f97572c4db"><img src="https://wakatime.com/badge/user/2bd5d4a8-0ada-426e-b2f9-68f97572c4db.svg" alt="Total time coded since Mar 15 2023" /></a>
-</p>
+
 
 <div align="center">
 <a href="https://discordid.netlify.app/?id=734619097710460958"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
